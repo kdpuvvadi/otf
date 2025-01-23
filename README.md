@@ -45,7 +45,7 @@ please refer to [documentation](https://docs.otf.ninja/latest/agents/#walkthroug
 ```yaml
 services:
   otf-agent:
-    image: ghcr.io/kdpuvvadi/otf:latest
+    image: ghcr.io/kdpuvvadi/otf-agent:latest
     container_name: otf-agent
     environment:
       - OTF_URL=https://otf.example.com

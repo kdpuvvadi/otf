@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/leg100/otf"><img alt="otf logo" height="64" src="https://docs.otf.ninja/latest/images/logo.svg">
+  <a href="https://github.com/leg100/otf"><img alt="otf logo" height="64" src="https://docs.otf.ninja/images/logo.svg">
   </a>
 </p>
 
@@ -52,3 +52,4 @@ services:
       - OTF_TOKEN=token
     command: --token OTF_TOKEN --url OTF_URL
 ```
+
